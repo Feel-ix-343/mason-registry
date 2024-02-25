@@ -13,4 +13,4 @@ source:
   build:
     run: "cargo build --release"
 bin:
-  markdown-oxide: /target/release/markdown-oxide
+  markdown-oxide: target/release/markdown-oxide
