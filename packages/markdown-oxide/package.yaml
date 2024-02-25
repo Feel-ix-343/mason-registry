@@ -8,6 +8,7 @@ languages:
 categories:
   - LSP
 source:
+  # renovate:datasource=github-tags
   id: pkg:github/feel-ix-343/markdown-oxide@v0.0.1
   build:
     run: "cargo build --release"
